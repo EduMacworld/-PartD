@@ -7,5 +7,5 @@ public class MainPartD {
 		System.out.println("My favourite mode of transportation is walking");
 		System.out.println("The best day of the week is Sunday");
 	}
-
+//part D complete
 }
